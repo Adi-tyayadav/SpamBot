@@ -1,7 +1,5 @@
 # My-Bot
 This is a chat spam bot that will spam a chat box with a single phrase or with random phrases. 
-created by cgoeller
-updated 5/26/2017
 
 I DO NOT CONDONE USE OF THIS BOT FOR MALICIOUS PURPOSES. THIS PROJECT WAS CREATED WITH LEARNING IN MIND, AND I ONLY RECOMMEND USE FOR THAT PURPOSE.
 
